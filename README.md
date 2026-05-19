@@ -1,18 +1,25 @@
 # Hi there! I'm Rounaq Bag 👋
 
-🎓 Aspiring AI/ML Engineer from West Bengal, India
-🔭 Currently: Preparing for BTech AI/ML — Class of 2030
+🎓 BTech AI/ML — IEM Kolkata — Class of 2030
+
+🔭 Currently: Preparing for BTech AI/ML Journey
+
 🌱 Learning: CS50 Harvard — Starting May 24, 2026
-☁️ Google Cloud Arcade Participant — Starting May 2026
+
+☁️ Google Cloud Arcade — Active Participant
+
 🎯 Goal: Build AI systems that solve real world problems
-💡 Interests: Artificial Intelligence, Machine Learning, Cloud Computing
-📫 Connect with me: linkedin.com/in/rounaq-bag-86573040a
+
+💡 Interests: AI/ML · Cloud · Entrepreneurship
+
+📫 Connect: linkedin.com/in/rounaq-bag-86573040a
 
 ---
 
 ### 🚀 My Journey Starts Now
-> "Setbacks are not for Regreat 
->  They are for Rebuild."
+
+> "Setbacks are not for Regret.
+> They are for Rebuild."
 
 🟩 Watch this space — projects coming soon!
 
