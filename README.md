@@ -1,6 +1,6 @@
 # Hi there! I'm Rounaq Bag 👋
 
-🎓 BTech AI/ML — IEM Kolkata — Class of 2030
+🎓 BTech AI/ML — Class of 2030
 
 🔭 Currently: Preparing for BTech AI/ML Journey
 
