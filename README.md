@@ -12,7 +12,7 @@
 
 💡 Interests: AI/ML · Cloud · Entrepreneurship
 
-📫 Connect: linkedin.com/in/rounaq-bag-86573040a
+📫 Connect: [Rounaq Bag](https://www.linkedin.com/in/rounaq-bag-86573040a/)
 
 ---
 
