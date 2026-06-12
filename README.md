@@ -6,8 +6,6 @@
 
 🌱 Learning: CS50 Harvard — Starting May 24, 2026
 
-☁️ Google Cloud Arcade — Active Participant
-
 🎯 Goal: Build AI systems that solve real world problems
 
 💡 Interests: AI/ML · Cloud · Entrepreneurship
