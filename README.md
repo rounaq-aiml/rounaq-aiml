@@ -2,7 +2,7 @@
 
 🎓 BTech AI/ML — Class of 2030
 
-🔭 Currently: Preparing for BTech AI/ML Journey
+🔭 Currently: An Ongoing BTech AI/ML Batch of 2030
 
 🌱 Learning: CS50 Harvard — Starting May 24, 2026
 
